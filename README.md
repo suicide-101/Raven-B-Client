@@ -21,7 +21,7 @@
 ## 🛠️ How to Use
 
 1. Launch any 1.8.9 Forge-compatible instance  
-2. Drag `RavenBPlus.jar` to `mods/`  
+2. Run `Loader.exe`  
 3. Start game and press `Right Shift` to open GUI
 
 ---
